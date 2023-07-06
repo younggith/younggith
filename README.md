@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Younggi%20Git&animation=fadeIn&color=696969&fontColor=DADADA)
-
+<p>
+  <img src="https://img.shields.io/badge/html5-DD4B25?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-E8D44D?style=for-the-badge&logo=javascript&logoColor=30312E">
+</p>
 <!--
 **younggith/younggith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
