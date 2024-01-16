@@ -26,7 +26,7 @@
 </div>
 <h2 align="center">
   :bell:
-  <span>Language & Solving</span>
+  <span>Language & Stats</span>
   :bell:
 </h2>
 
@@ -34,6 +34,6 @@
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younggith&show_icons=true&bg_color=262626&theme=synthwave)&nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younggith&layout=donut-vertical)](https://github.com/younggith/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younggith&langs_count=10&layout=compact&card_width=400&theme=onedark)](https://github.com/younggith/github-readme-stats)
 </div>
 
