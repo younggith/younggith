@@ -33,7 +33,7 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudrl6571)](https://solved.ac/dudrl6571/) -->
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younggith&show_icons=true&bg_color=cobalt)&nbsp;
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younggith&show_icons=true&bg_color=262626&theme=synthwave)&nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younggith&layout=donut-vertical)](https://github.com/younggith/github-readme-stats)
 </div>
 
