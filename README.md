@@ -13,18 +13,28 @@
   <span>Skill</span>
   :wrench:
 </h2>
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/html5-DD4B25?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-E8D44D?style=for-the-badge&logo=javascript&logoColor=30312E">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younggith&layout=donut-vertical)](https://github.com/younggith/github-readme-stats) -->
 </div>
 <h2 align="center">
   :bell:
   <span>Language & Solving</span>
   :bell:
 </h2>
+
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudrl6571)](https://solved.ac/dudrl6571/) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younggith&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younggith&show_icons=true&bg_color=cobalt)
+</div>
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younggith&layout=donut-vertical)](https://github.com/younggith/github-readme-stats)
+</div>
+
