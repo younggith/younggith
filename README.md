@@ -14,12 +14,14 @@
   :wrench:
 </h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-DD4B25?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-E8D44D?style=for-the-badge&logo=javascript&logoColor=30312E">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/html5-DD4B25?style=for-the-badge&logo=html5&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/javascript-E8D44D?style=for-the-badge&logo=javascript&logoColor=30312E">&nbsp
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>&nbsp
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younggith&layout=donut-vertical)](https://github.com/younggith/github-readme-stats) -->
 </div>
 <h2 align="center">
